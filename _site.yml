@@ -1,4 +1,4 @@
-output_dir: "Science Class with Audrey and Wade"
+output_dir: "."
 navbar:
   left:
     - text: "Home"
@@ -6,6 +6,4 @@ navbar:
     - text: "Wade"
       href: wade.html
     - text: "Audrey"
-      href: Audrey.html 
-      
-output_dir: "."
+      href: audrey.html
