@@ -1,0 +1,8 @@
+---
+title: "Worm and fern"
+author: "Wade Simmons and Audrey Bowe"
+output: html_document
+---
+![](https://i.natgeofe.com/n/a61dd42c-a703-48d1-9c14-a64805cb8972/common-earthworm_thumb.jpg)
+
+![](https://images.squarespace-cdn.com/content/v1/537e5286e4b0eaf695cdf257/1462899745370-YMHRW2UFC84ZOJ027ML2/ke17ZwdGBToddI8pDm48kGjWRBxyIFy0fON9eP8J8uNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxRny7YVCLLo0m8N8KLXYHXUjDPAmNbcKDc92r87qtkT_wAqlIXPmUrn2NI7uPg2eg/Asplenium+scolopendrium+spore+pattern.jpg?format=1500w)
